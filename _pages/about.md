@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a third year undergraduate student from [School of CS](https://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/). My research interest includes multi-agent reinforcement learning, risk-sensitive reinforcement learning, multi-robot collaboration , and autonomous vehicle SLAM.
 
-I am very fortunate to be advised by [Prof. Guo]([https://scholar.google.com.hk/citations?hl=en&user=vR9kUw8AAAAJ]) of dica Lab from [School of Computer Science](https://cs.pku.edu.cn/), Sichuan University. 
+I am very fortunate to be advised by [Prof. Guo](https://scholar.google.com.hk/citations?hl=en&user=vR9kUw8AAAAJ) of [dica Lab](https://center.dicalab.cn/) from School of Computer Science, Sichuan University. 
 
 You can find my CV here: [Chen Haoming's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
