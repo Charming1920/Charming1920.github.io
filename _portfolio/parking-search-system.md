@@ -50,7 +50,6 @@ Addressing the limitation of traditional parking search algorithms that ignore s
 ## Project Documents
 
 - 📄 [Download Project Proposal (PDF)](/files/ms-ppo-proposal.pdf)
-
+  
 ---
 
-*Note: For more project details, please contact me via email*
