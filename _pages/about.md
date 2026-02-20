@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of CS](https://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third year undergraduate student from [School of CS](https://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/). My research interest includes multi-agent reinforcement learning, risk-sensitive reinforcement learning, multi-robot collaboration , and autonomous vehicle SLAM.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Guo]([https://scholar.google.com.hk/citations?hl=en&user=vR9kUw8AAAAJ]) of dica Lab from [School of Computer Science](https://cs.pku.edu.cn/), Sichuan University. 
 
 You can find my CV here: [Chen Haoming's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:chenhaoming1@stu.scu.edu.cn) / [Github](https://github.com/Charming1920) / [Wechat](../images/wechat.jpg) 
