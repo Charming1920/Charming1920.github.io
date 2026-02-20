@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-avatar           : "profile.png"  # Keep this if you have a profile photo named profile.png
-name             : "Haoming Chen"  
-pronouns         : # Leave empty or add if relevant
-bio              : "Undergraduate at Sichuan University | Multi-Agent RL & Robotics"
-location         : "Chengdu, China"
-employer         : "Sichuan University"
-uri              : "https://charming1920.github.io"
-email            : "chenhaoming1@stu.scu.edu.cn"
+  avatar           : "profile.png"
+  name             : "Haoming Chen"
+  pronouns         : # Leave empty
+  bio              : "Undergraduate at Sichuan University | Multi-Agent RL & Robotics"
+  location         : "Chengdu, China"
+  employer         : "Sichuan University"
+  uri              : "https://charming1920.github.io/"
+  email            : "chenhaoming1@stu.scu.edu.cn"
 
   # Academic websites
   academia         : # URL
