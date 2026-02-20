@@ -14,8 +14,6 @@ Currently, I am a research assistant at the **[DICA Lab](https://center.dicalab.
 
 My research interests lie at the intersection of **Multi-Agent Reinforcement Learning (MARL)**, **Risk-Sensitive RL**, and **Robotics** (Navigation & SLAM). I am particularly interested in developing reliable and efficient algorithms for multi-robot collaboration in structured environments.
 
-Previously, I served as a core member in a joint project with the **National University of Singapore (NUS)**, developing a full-stack autonomous driving system for a golf cart.
-
 You can find my CV here: [**Curriculum Vitae**](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:chenhaoming1@stu.scu.edu.cn) / [Github](https://github.com/Charming1920) / [Wechat](../images/wechat.jpg)  
