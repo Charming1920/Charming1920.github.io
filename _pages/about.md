@@ -34,16 +34,16 @@ You can find my CV here: [**Curriculum Vitae**](../assets/Curriculum_Vitae.pdf).
 
 ## 📝 Publications
 
-**MS-PPO: Mean-Standard Deviation Proximal Policy Optimization for Reliable Parking Space Search in Structured Environments**  
-**Haoming Chen**, Hongliang Guo*  
+**MS-PPO: Mean-Standard Deviation Proximal Policy Optimization for Reliable Parking Space Search in Structured Environments** <br>
+**Haoming Chen**, Hongliang Guo* <br>
 *AAAI Conference on Artificial Intelligence (**AAAI**), 2026 (Accepted)*
 
-**MV-FAC: Mean–Variance Value Function Factorization for Multi-Robot Mean–Standard Deviation Moving Target Search**  
-**Haoming Chen**, H. Lu, H. Guo*, J. Lv  
+**MV-FAC: Mean–Variance Value Function Factorization for Multi-Robot Mean–Standard Deviation Moving Target Search** <br>
+**Haoming Chen**, H. Lu, H. Guo*, J. Lv <br>
 *International Joint Conference on Artificial Intelligence (**IJCAI**), 2026 (Under Review)*
 
-**Q-FAC: Quantile Value Function Factorization for Multi-Robot MovingTarget Search with High Percentile Conffdence**  
-H. Lu, **Haoming Chen**, H. Guo*, J. Lv  
+**Q-FAC: Quantile Value Function Factorization for Multi-Robot Moving Target Search with High Percentile Confidence** <br>
+H. Lu, **Haoming Chen**, H. Guo*, J. Lv <br>
 *International Joint Conference on Artificial Intelligence (**IJCAI**), 2026 (Under Review)*
 
 ---
