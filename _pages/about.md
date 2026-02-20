@@ -44,6 +44,10 @@ You can find my CV here: [**Curriculum Vitae**](../assets/Curriculum_Vitae.pdf).
 H. Lu, **Haoming Chen**, H. Guo\*, J. Lv <br>
 *International Joint Conference on Artificial Intelligence (**IJCAI**), 2026 (Under Review)*
 
+**Adv-FAC: Adversarial Value Function Factorization for Multi-Robot Mean–Standard Deviation Adversarial Moving Target Search** <br>
+**Haoming Chen**, H. Guo\* <br>
+*Annual Conference on Neural Information Processing Systems (**NeurIPS**),2026 (In Preparation)*
+
 ---
 
 ## 🎖 Honors & Awards
