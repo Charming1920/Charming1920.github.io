@@ -1,6 +1,6 @@
 ---
 title: "Reliable Parking Space Search System"
-excerpt: "Proposed MS-PPO algorithm to address uncertainty in traditional reinforcement learning, achieving full-process autonomous planning and parking in real underground garages<br/><img src='/images/parking-search-project.png'>"
+excerpt: "Proposed MS-PPO algorithm to address uncertainty in traditional reinforcement learning, achieving full-process autonomous planning and parking in real underground garages<br/><img src='/images/parking-search-project.png' style='display: block; margin: 10px auto; max-width: 100%; height: auto;'>"
 collection: portfolio
 date: 2025-11-01
 ---
