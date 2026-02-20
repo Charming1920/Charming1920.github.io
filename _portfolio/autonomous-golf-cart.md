@@ -43,5 +43,3 @@ As a core member of the first lightweight autonomous golf cart project in Southw
 - ✅ Established engineering foundation for future autonomous driving research
 
 ---
-
-*Note: For more project details, please contact me via email*
