@@ -22,6 +22,19 @@ Research Interests
 * Multi-Robot Collaboration
 * Autonomous Vehicle Navigation (Mapping, Localization, Path Planning)
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Patents
+======
+* Reinforcement Learning-Based Reliable Parking Space Search Method and System
+  * Inventors: Haoming Chen, Hongliang Guo
+  * Patent Number: 202511378651.9
+  * Status: Under Substantive Examination (2025)
+
 Project Experience
 ======
 * November 2025 - October 2026: **Project Leader**
@@ -42,19 +55,6 @@ Skills
 * Machine Learning & Robotics: PyTorch, Reinforcement Learning, ROS1, Gazebo, SLAM
 * Development Tools: Git, LaTeX, Arduino
 * Academic Writing: Grant Proposal Writing, Research Project Application, Reviewer Response, Project Final Report
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Patents
-======
-* Reinforcement Learning-Based Reliable Parking Space Search Method and System
-  * Inventors: Haoming Chen, Hongliang Guo
-  * Patent Number: 202511378651.9
-  * Status: Under Substantive Examination (2025)
 
 Awards & Honors
 ======
