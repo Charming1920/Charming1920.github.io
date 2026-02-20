@@ -1,6 +1,6 @@
 ---
 title: "Full-Stack Autonomous Golf Cart System Development"
-excerpt: "ROS1-based autonomous driving system achieving autonomous cruising, turning, and dynamic obstacle avoidance in campus environments<br/><img src='/images/golf-cart-project.png'>"
+excerpt: "ROS1-based autonomous driving system achieving autonomous cruising, turning, and dynamic obstacle avoidance in campus environments<br/><img src='/images/golf-cart-project.png' style='display: block; margin: 10px auto; max-width: 100%; height: auto;'>"
 collection: portfolio
 date: 2025-06-01
 ---
