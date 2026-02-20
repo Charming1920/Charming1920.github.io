@@ -32,7 +32,7 @@ You can find my CV here: [**Curriculum Vitae**](../assets/Curriculum_Vitae.pdf).
 
 ---
 
-## 📝 Selected Publications
+## 📝 Publications
 
 **MS-PPO: Mean-Standard Deviation Proximal Policy Optimization for Reliable Parking Space Search in Structured Environments**  
 **Haoming Chen**, Hongliang Guo*  
