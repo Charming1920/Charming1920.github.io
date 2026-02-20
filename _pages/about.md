@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of CS](https://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/). My research interest includes multi-agent reinforcement learning, risk-sensitive reinforcement learning, multi-robot collaboration , and autonomous vehicle SLAM.
+I'm a third year undergraduate student from [School of CS](https://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/). My research interest includes multi-agent reinforcement learning, risk-sensitive reinforcement learning, multi-robot collaboration , and autonomous vehicle navigation (mapping, localization, path planning).
 
 I am very fortunate to be advised by [Prof. Guo](https://scholar.google.com.hk/citations?hl=en&user=vR9kUw8AAAAJ) of [DICA Lab](https://center.dicalab.cn/) from School of Computer Science, Sichuan University. 
 
