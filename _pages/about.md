@@ -10,7 +10,7 @@ redirect_from:
 
 I am a third-year undergraduate student at the [College of Computer Science](https://cs.scu.edu.cn/), **Sichuan University**, majoring in Computer Science and Technology. I rank within the **top 5%** of my cohort.
 
-Currently, I am a research assistant at the **[DICA Lab](https://center.dicalab.cn/)** (Engineering Research Center of Machine Learning and Industry Intelligence Application, Ministry of Education), advised by **Prof. Hongliang Guo**. 
+Currently, I am a research assistant at the **[DICA Lab](https://center.dicalab.cn/)** (Engineering Research Center of Machine Learning and Industry Intelligence Application, Ministry of Education), advised by [**Prof. Hongliang Guo**](https://scholar.google.com.hk/citations?hl=en&user=vR9kUw8AAAAJ). 
 
 My research interests lie at the intersection of **Multi-Agent Reinforcement Learning (MARL)**, **Risk-Sensitive RL**, and **Robotics** (Navigation & SLAM). I am particularly interested in developing reliable and efficient algorithms for multi-robot collaboration in structured environments.
 
@@ -45,6 +45,7 @@ You can find my CV here: [**Curriculum Vitae**](../assets/Curriculum_Vitae.pdf).
 **Q-FAC: Quantile Value Function Factorization for Multi-Robot MovingTarget Search with High Percentile Conffdence**  
 H. Lu, **Haoming Chen**, H. Guo*, J. Lv  
 *International Joint Conference on Artificial Intelligence (**IJCAI**), 2026 (Under Review)*
+
 ---
 
 ## 🎖 Honors & Awards
