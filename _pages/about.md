@@ -37,11 +37,11 @@ You can find my CV here: [**Curriculum Vitae**](../assets/Curriculum_Vitae.pdf).
 *AAAI Conference on Artificial Intelligence (**AAAI**), 2026 (Accepted)*
 
 **MV-FAC: Mean–Variance Value Function Factorization for Multi-Robot Mean–Standard Deviation Moving Target Search** <br>
-**Haoming Chen**, Hao Lu, Hongliang Guo\*, Jiancheng LV <br>
+**Haoming Chen**, Hao Lu, Hongliang Guo\*, Jiancheng Lv <br>
 *International Joint Conference on Artificial Intelligence (**IJCAI**), 2026 (Under Review)*
 
 **Q-FAC: Quantile Value Function Factorization for Multi-Robot Moving Target Search with High Percentile Confidence** <br>
-Hao Lu, **Haoming Chen**, H. Guo\*, Jiancheng LV <br>
+Hao Lu, **Haoming Chen**, H. Guo\*, Jiancheng Lv <br>
 *International Joint Conference on Artificial Intelligence (**IJCAI**), 2026 (Under Review)*
 
 **Adv-FAC: Adversarial Value Function Factorization for Multi-Robot Mean–Standard Deviation Adversarial Moving Target Search** <br>
